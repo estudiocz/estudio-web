@@ -1,0 +1,22 @@
+OLD
+<p>Fakturace a administrativa:<br /><span class="tiny-contact" style="letter-spacing: -0.03em;"><a href="mailto:agenda@estudio.cz"><img class="ico" src="/files/tinymce/mail.svg" alt="" />agenda@estudio.cz</a> <br /><a href="tel:+420734577344"><img class="ico" src="/files/tinymce/phon.svg" alt="" />+420 734 577 344</a></span></p>
+
+
+NEW
+<div class="contact--infobox">
+<div class="itembox">
+<div class="pad">
+<h2>Obchod</h2>
+<a href="mailto:obchod@estudio.cz"> <img class="ico" src="/files/tinymce/_ionicons_svg_ios-mail.svg" alt="ico-mail" />obchod@estudio.cz </a> <br /> <a href="tel:+420 603 201 845"> <img class="ico" src="/files/tinymce/_ionicons_svg_ios-call.svg" alt="ico-phone" />+420 603 201 845 </a></div>
+</div>
+<div class="itembox">
+<div class="pad">
+<h2>Fakturace</h2>
+<a href="mailto:agenda@estudio.cz"> <img class="ico" src="/files/tinymce/_ionicons_svg_ios-mail.svg" alt="ico-mail" />agenda@estudio.cz </a> <br /> <a href="tel:+420734577344"> <img class="ico" src="/files/tinymce/_ionicons_svg_ios-call.svg" alt="ico-phone" />+420 734 577 344 </a></div>
+</div>
+<div class="itembox">
+<div class="pad">
+<h2>Technická podpora</h2>
+<a href="mailto:agenda@estudio.cz"> <img class="ico" src="/files/tinymce/_ionicons_svg_ios-mail.svg" alt="ico-mail" />agenda@estudio.cz </a> <br /> <a href="tel:+420734577344"> <img class="ico" src="/files/tinymce/_ionicons_svg_ios-call.svg" alt="ico-phone" />+420 734 577 344 </a></div>
+</div>
+</div>
